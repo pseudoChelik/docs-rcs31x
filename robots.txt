@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-i8wi6a.learningpadpreschool.com/sitemap.xml
